@@ -1,0 +1,12 @@
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.CoinForm.resources
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.MDI.resources
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.MoneyForm.resources
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\Marko\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb

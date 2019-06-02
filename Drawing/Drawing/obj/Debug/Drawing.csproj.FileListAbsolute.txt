@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Marko\source\repos\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Marko\source\repos\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Marko\source\repos\Drawing\Drawing\obj\Debug\Drawing.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingBalls", "SlidingBalls\SlidingBalls.csproj", "{64F970BE-9CD2-4935-BB31-1C1660C425DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F970BE-9CD2-4935-BB31-1C1660C425DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F970BE-9CD2-4935-BB31-1C1660C425DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F970BE-9CD2-4935-BB31-1C1660C425DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F970BE-9CD2-4935-BB31-1C1660C425DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF29921-EBE0-4452-818D-7D9865A89B7E}
+	EndGlobalSection
+EndGlobal

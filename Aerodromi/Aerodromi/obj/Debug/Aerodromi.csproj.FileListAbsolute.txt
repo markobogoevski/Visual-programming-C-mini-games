@@ -1,0 +1,13 @@
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.Form1.resources
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.Nov_aerodrom.resources
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.Nova_destinacija.resources
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.Properties.Resources.resources
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\bin\Debug\Aerodromi.exe.config
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\bin\Debug\Aerodromi.exe
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\bin\Debug\Aerodromi.pdb
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.exe
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.pdb
+C:\Users\Marko\source\repos\Aerodromi\Aerodromi\obj\Debug\Aerodromi.Deletion_notice.resources

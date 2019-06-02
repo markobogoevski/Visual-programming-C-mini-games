@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.exe.config
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.exe
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.pdb
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.Form1.resources
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.Properties.Resources.resources
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.exe
+C:\Users\Marko\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.pdb

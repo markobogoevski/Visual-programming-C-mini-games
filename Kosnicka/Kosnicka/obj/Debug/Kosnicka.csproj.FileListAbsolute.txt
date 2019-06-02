@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\bin\Debug\Kosnicka.exe.config
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\bin\Debug\Kosnicka.exe
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\bin\Debug\Kosnicka.pdb
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.Form1.resources
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.Properties.Resources.resources
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.exe
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.pdb
+C:\Users\Marko\source\repos\Kosnicka\Kosnicka\obj\Debug\Kosnicka.Нов_продукт.resources

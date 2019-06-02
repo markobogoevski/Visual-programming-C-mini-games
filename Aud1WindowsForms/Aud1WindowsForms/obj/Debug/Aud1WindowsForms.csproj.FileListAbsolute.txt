@@ -1,0 +1,11 @@
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\bin\Debug\Aud1WindowsForms.exe.config
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\bin\Debug\Aud1WindowsForms.exe
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\bin\Debug\Aud1WindowsForms.pdb
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.Form1.resources
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.FormUslovi2.resources
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.Properties.Resources.resources
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.exe
+C:\Users\Marko\source\repos\Aud1WindowsForms\Aud1WindowsForms\obj\Debug\Aud1WindowsForms.pdb

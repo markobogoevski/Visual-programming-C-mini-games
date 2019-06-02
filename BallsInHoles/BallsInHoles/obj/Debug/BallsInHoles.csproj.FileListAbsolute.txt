@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe.config
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.exe
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\bin\Debug\BallsInHoles.pdb
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.Form1.resources
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.Properties.Resources.resources
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.exe
+C:\Users\Marko\source\repos\BallsInHoles\BallsInHoles\obj\Debug\BallsInHoles.pdb

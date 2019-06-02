@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\bin\Debug\WindowsFormsValidating1.exe
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\bin\Debug\WindowsFormsValidating1.pdb
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.Form1.resources
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.FormUslovi.resources
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.Properties.Resources.resources
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.exe
+C:\Users\Marko\source\repos\WindowsForms.EditCheck\WindowsFormsValidating1\obj\x86\Debug\WindowsFormsValidating1.pdb

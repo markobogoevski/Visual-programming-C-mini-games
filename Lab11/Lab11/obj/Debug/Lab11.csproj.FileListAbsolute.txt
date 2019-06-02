@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Marko\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Marko\source\repos\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Marko\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\Marko\source\repos\Lab11\Lab11\obj\Debug\Lab11.pdb

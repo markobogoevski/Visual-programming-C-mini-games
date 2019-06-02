@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\bin\Debug\WindowsForms.FormValidator.exe
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\bin\Debug\WindowsForms.FormValidator.pdb
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.Form1.resources
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.Properties.Resources.resources
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.exe
+C:\Users\Marko\source\repos\WindowsForms.FormValidator\WindowsForms.FormValidator\obj\x86\Debug\WindowsForms.FormValidator.pdb

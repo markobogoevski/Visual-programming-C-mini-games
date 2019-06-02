@@ -1,0 +1,10 @@
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\bin\Debug\lab8PacMan.exe.config
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\bin\Debug\lab8PacMan.exe
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\bin\Debug\lab8PacMan.pdb
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.Form1.resources
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.Properties.Resources.resources
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.exe
+C:\Users\Marko\source\repos\lab8PacMan\lab8PacMan\obj\Debug\lab8PacMan.pdb
