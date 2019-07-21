@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguageFeatures", "LanguageFeatures\LanguageFeatures.csproj", "{DAA46381-05E0-495C-AC49-CCA82240ECFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C8DEC47E-ECA8-4DE0-8C17-8C8C55643027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerTests", "ControllerTests\ControllerTests.csproj", "{D5B712CA-120F-4700-8B59-23C2B14D60A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA46381-05E0-495C-AC49-CCA82240ECFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA46381-05E0-495C-AC49-CCA82240ECFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA46381-05E0-495C-AC49-CCA82240ECFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA46381-05E0-495C-AC49-CCA82240ECFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B712CA-120F-4700-8B59-23C2B14D60A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B712CA-120F-4700-8B59-23C2B14D60A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B712CA-120F-4700-8B59-23C2B14D60A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B712CA-120F-4700-8B59-23C2B14D60A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D5B712CA-120F-4700-8B59-23C2B14D60A1} = {C8DEC47E-ECA8-4DE0-8C17-8C8C55643027}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7725BD48-33BA-4134-B91C-9EA4B1EF20B7}
+	EndGlobalSection
+EndGlobal
