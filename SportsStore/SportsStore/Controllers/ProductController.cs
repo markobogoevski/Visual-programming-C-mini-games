@@ -29,7 +29,7 @@ namespace SportsStore.Controllers
                 PagingInfo = new PagingInfo
                 {
                     CurrentPage = pageNumber,
-                    ItemsPerPage = 4,
+                    ItemsPerPage = PageSize,
                     TotalItems = _productRepository.Products.Count()
                 }
             });

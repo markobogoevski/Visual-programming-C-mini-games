@@ -28,6 +28,11 @@ namespace SportsStore.Infrastructure
 
         public string PageAction { get; set; }
 
+        public bool PageClassesEnabled { get; set; } = false;
+        public string PageClass { get; set; }
+        public string PageClassNormal { get; set; }
+        public string PageClassSelected { get; set; }
+
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
             IUrlHelper helper = _helperFactory.GetUrlHelper(ViewContext);
@@ -36,6 +41,11 @@ namespace SportsStore.Infrastructure
             {
                 TagBuilder innerTag = new TagBuilder("a");
                 innerTag.Attributes["href"] = helper.Action(PageAction, new { pageNumber = i });
+                if (PageClassesEnabled)
+                {
+                    innerTag.AddCssClass(PageClass);
+                    innerTag.AddCssClass(i == PageModel.CurrentPage ? PageClassSelected : PageClassNormal);
+                }
                 innerTag.InnerHtml.Append(i.ToString());
                 result.InnerHtml.AppendHtml(innerTag);
             }

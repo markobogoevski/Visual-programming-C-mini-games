@@ -6,8 +6,41 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="bootstrap" Version="4.3.1" />
-    <PackageReference Include="Bower" Version="1.3.11" />
+    <Compile Remove="wwwroot\bootstrap\.github\**" />
+    <Compile Remove="wwwroot\bootstrap\build\**" />
+    <Compile Remove="wwwroot\bootstrap\dist\js\**" />
+    <Compile Remove="wwwroot\bootstrap\js\**" />
+    <Compile Remove="wwwroot\bootstrap\nuget\**" />
+    <Compile Remove="wwwroot\bootstrap\scss\**" />
+    <Compile Remove="wwwroot\bootstrap\site\**" />
+    <Content Remove="wwwroot\bootstrap\.github\**" />
+    <Content Remove="wwwroot\bootstrap\build\**" />
+    <Content Remove="wwwroot\bootstrap\dist\js\**" />
+    <Content Remove="wwwroot\bootstrap\js\**" />
+    <Content Remove="wwwroot\bootstrap\nuget\**" />
+    <Content Remove="wwwroot\bootstrap\scss\**" />
+    <Content Remove="wwwroot\bootstrap\site\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\.github\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\build\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\dist\js\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\js\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\nuget\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\scss\**" />
+    <EmbeddedResource Remove="wwwroot\bootstrap\site\**" />
+    <None Remove="wwwroot\bootstrap\.github\**" />
+    <None Remove="wwwroot\bootstrap\build\**" />
+    <None Remove="wwwroot\bootstrap\dist\js\**" />
+    <None Remove="wwwroot\bootstrap\js\**" />
+    <None Remove="wwwroot\bootstrap\nuget\**" />
+    <None Remove="wwwroot\bootstrap\scss\**" />
+    <None Remove="wwwroot\bootstrap\site\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bower_components\bootstrap\dist\css\bootstrap.min.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />

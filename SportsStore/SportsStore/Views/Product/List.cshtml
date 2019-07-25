@@ -1,14 +1,13 @@
 ﻿@model ProductsListViewModel
 
-<div>
-    @foreach (var product in Model.Products)
-    {
-        <div>
-            <h2>Name: @product.Name</h2>
-            <p>Description: @product.Description</p>
-            <p>Price: @product.Price.ToString("c")</p>
-        </div>
-    }
+    <div>
+        @foreach (var product in Model.Products)
+        {
+            <partial name="ProductSummary" model="product" />
+        }
+    </div>
 
-    <div page-model="@Model.PagingInfo" page-action="List"></div>
-</div>
+    <div page-model="@Model.PagingInfo" page-action="List" page-classes-enabled="true"
+         page-class="btn" page-class-normal="btn-secondary"
+         page-class-selected="btn-primary" class="m-3 btn-group pull-right">
+    </div>
